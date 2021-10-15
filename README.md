@@ -14,6 +14,6 @@ Programming Skills: Java, C++, HTML, CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsura&count_private=false&show_icons=true&theme=dark)
 
-![GitHub metrics](https://metrics.lecoq.io/rsura) 
+![GitHub metrics](metrics.lecoq.io/rsura) 
 
 ![Profile views](https://gpvc.arturio.dev/rsura)  
