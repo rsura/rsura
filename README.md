@@ -1,10 +1,9 @@
 # 👋 Hi there! I'm Rahul
-### I am a sophomore at Chapman University
-I'm majoring in computer science and minoring in mathematics. I am looking for a summer internship for summer of '22 that will help me gain hands-on industry experience in addition to the skills that I'm learning at school.
+### I am a Junior at Chapman University
+I'm majoring in computer science and minoring in mathematics. I am looking for a summer internship for summer of 2023 that will help me gain hands-on industry experience in addition to the skills that I'm learning at school.
 
-Programming Skills: Java, C++, HTML, CSS
+Programming Skills: Java, C++, Python, Swift, HTML, CSS
 
-- 🌱 I’m currently learning Data Structures and Algorithms
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I can solve a Rubik's cube within 15 seconds 
 - 📫 How to reach me: Any of the platforms below 
