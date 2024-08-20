@@ -13,4 +13,6 @@ Programming Skills: Java, C++, Python, Swift, Javascript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsura&show_icons=true&theme=dark)
 
+<!--
 ![Profile views](https://gpvc.arturio.dev/rsura)  
+-->
