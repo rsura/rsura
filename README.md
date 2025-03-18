@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Rahul
 ### I am a Graduate Student at University of Southern California (USC)
-During my undergraduate degree at Chapman University, I majored in computer science and minored in mathematics. I am currently pursuing a graduate degree in Computer Science at USC. I am looking for a graduate level summer internship for the summer of 2025 that will help me gain hands-on industry experience in addition to the skills that I'm learning at university.
+During my undergraduate degree at Chapman University, I majored in computer science and minored in mathematics. I am currently pursuing a graduate degree in Computer Science at USC, and for the Summer of 2025, I am going to be a Data Science III Graduate Intern for [Walmart Global Tech](https://github.com/walmartlabs).
 
 Programming Skills: Java, C++, Python, Swift, Javascript
 
